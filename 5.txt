@@ -1,0 +1,4 @@
+ligaria o interruptor A e deixaria ligado por tempo o suficiente para que a lâmpada aquecesse,
+depois desligaria o interruptor A e ligaria o B e iria para a primeira sala,
+se a lâmpada estivesse apagada e quente seria o interruptor A, se estivesse acesa seria o B, e se estivesse apagada e fria o C,
+faria o mesmo na segunda sala, e a terceira seria determinada pro eliminação.
